@@ -1,0 +1,13 @@
+pandas
+openpyxl
+pdfplumber
+PyPDF2
+python-dotenv
+
+# Groq-Optimized F913 Extractor Requirements
+# Install with: pip install -r requirements.txt
+groq
+
+# Data Handling and Utilities
+typing-extensions
+dataclasses
