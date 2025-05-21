@@ -11,3 +11,8 @@ groq
 # Data Handling and Utilities
 typing-extensions
 dataclasses
+
+
+streamlit
+openpyxl
+fnmatch2
